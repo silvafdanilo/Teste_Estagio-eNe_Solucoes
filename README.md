@@ -20,4 +20,4 @@ Considere que a média é ponderada e que o peso das notas é: 2,3 e 5, respecti
 O desafio foi desenvolvido em linguagen Python (versão 3.9.16) e foi executado em nuvem por meio do ambiente Google Colaboratory.
 
 ## ✅ Execução do Teste
-A solução pode ser executada em nuvem por meio do ambiente Google Colaboratory.
+A solução pode ser executada em nuvem por meio do ambiente [Google Colaboratory](https://github.com/silvafdanilo/Teste_Estagio-eNe_Solucoes/blob/main/Teste_para_vaga_de_Est%C3%A1gio_Danilo.ipynb).
